@@ -8,7 +8,9 @@ The file in which the parser is written
 file.json
 The file in which the movie dictionary will be written
 visible_file.py
-File of visual configuration
+The file of visual configuration
+my.kv
+Th file of kivy styles
 ````
 ## Using
 When starting the program, the user can choose the genre of movies from the following. 
